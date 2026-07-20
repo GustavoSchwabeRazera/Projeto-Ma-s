@@ -33,5 +33,5 @@ O projeto foi refatorado utilizando as melhores práticas de Engenharia de Softw
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/GustavoSchwabeRazera/Projeto-Ma-s.git
+   git clone https://github.com/GustavoSchwabeRazera/Projeto-Macas.git
   
