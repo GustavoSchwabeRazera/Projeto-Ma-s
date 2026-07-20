@@ -33,7 +33,6 @@ O projeto foi refatorado utilizando as melhores práticas de Engenharia de Softw
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-1. Clone este repositório:
+   git clone [https://github.com/GustavoSchwabeRazera/Projeto-Ma-s.git)
    ```bash
    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
